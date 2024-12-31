@@ -1,0 +1,14 @@
+C:\Users\thinkpad\source\repos\Calculator_Project\bin\Debug\net8.0\Calculator_Project.exe
+C:\Users\thinkpad\source\repos\Calculator_Project\bin\Debug\net8.0\Calculator_Project.deps.json
+C:\Users\thinkpad\source\repos\Calculator_Project\bin\Debug\net8.0\Calculator_Project.runtimeconfig.json
+C:\Users\thinkpad\source\repos\Calculator_Project\bin\Debug\net8.0\Calculator_Project.dll
+C:\Users\thinkpad\source\repos\Calculator_Project\bin\Debug\net8.0\Calculator_Project.pdb
+C:\Users\thinkpad\source\repos\Calculator_Project\obj\Debug\net8.0\Calculator_Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thinkpad\source\repos\Calculator_Project\obj\Debug\net8.0\Calculator_Project.AssemblyInfoInputs.cache
+C:\Users\thinkpad\source\repos\Calculator_Project\obj\Debug\net8.0\Calculator_Project.AssemblyInfo.cs
+C:\Users\thinkpad\source\repos\Calculator_Project\obj\Debug\net8.0\Calculator_Project.csproj.CoreCompileInputs.cache
+C:\Users\thinkpad\source\repos\Calculator_Project\obj\Debug\net8.0\Calculator_Project.dll
+C:\Users\thinkpad\source\repos\Calculator_Project\obj\Debug\net8.0\refint\Calculator_Project.dll
+C:\Users\thinkpad\source\repos\Calculator_Project\obj\Debug\net8.0\Calculator_Project.pdb
+C:\Users\thinkpad\source\repos\Calculator_Project\obj\Debug\net8.0\Calculator_Project.genruntimeconfig.cache
+C:\Users\thinkpad\source\repos\Calculator_Project\obj\Debug\net8.0\ref\Calculator_Project.dll
